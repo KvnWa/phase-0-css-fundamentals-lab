@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+* {
+  text-align: center;
+}
+
+h3 {
+  background-color: red;
+}
+
+a {
+  padding: 10px;
+}
+
+.caption {
+  font-size: 12px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+p#featured-property {
+  width: 800px;
+}
+
+div {
+  float: left;
+  text-align: center;
+  width: 25%;
+  background: red;
+  margin-bottom: 100px;
+}
